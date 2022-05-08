@@ -1,0 +1,8 @@
+acid splash
+Level-Cantrip
+CastingTime-1Action
+Range/Area-60ft
+School-Conjuration
+Attack/Save-DEX
+Damage-1d6
+OtherInfo-                You hurl a bubble of acid. Choose one or two creatures you can see within range. If you choose two, they must be within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.

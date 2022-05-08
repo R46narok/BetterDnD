@@ -1,0 +1,7 @@
+counterspell
+Level-3rd
+CastingTime-1Reaction*
+Range/Area-60ft
+School-Abjuration
+Attack/Save-div
+OtherInfo-                You attemt to interrut a creature in the rocess of casting a sell. If the creature is casting a sell of 3rd level or lower, its sell fails and has no effect. If it is casting a sell of 4th level or higher, make an ability check using your sellcasting ability. The DC equals 10 + the sell's level. On a success, the creature's sell fails and has no effect.

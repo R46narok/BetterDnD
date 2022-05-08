@@ -1,0 +1,8 @@
+fireball
+Level-3rd
+CastingTime-1Action
+Range/Area-150ft
+School-Evocation
+Attack/Save-DEX
+Damage-8d6
+OtherInfo-                A bright streak flashes from your ointing finger to a oint you choose within range and then blossoms with a low roar into an exlosion of flame. Each creature in a 20-foot-radius shere centered on that oint must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.

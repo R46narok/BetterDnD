@@ -1,0 +1,7 @@
+remove curse
+Level-3rd
+CastingTime-1Action
+Range/Area-Touch
+School-Abjuration
+Attack/Save-div
+OtherInfo-                At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the sell breaks its owner's attunement to the object so it can be removed or discarded.    

@@ -1,0 +1,8 @@
+thunderclap
+Level-Cantrip
+CastingTime-1Action
+Range/Area-5ft
+School-Evocation
+Attack/Save-CON
+Damage-1d6
+OtherInfo-                You create a burst of thunderous sound that can be heard u to 100 feet away. Each creature within range, other than you, must succeed on a Constitution saving throw or take 1d6 thunder damage.

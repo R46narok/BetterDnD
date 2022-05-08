@@ -1,0 +1,8 @@
+harm
+Level-6th
+CastingTime-1Action
+Range/Area-60ft
+School-Necromancy
+Attack/Save-CON
+Damage-14d6
+OtherInfo-                You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit oints below 1. If the target fails the saving throw, its hit oint maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit oint maximum to return to normal before that time asses.    

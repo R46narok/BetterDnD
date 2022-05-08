@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\EntityComponentSystem">
+      <UniqueIdentifier>{ce7614fb-b053-4fd1-8dc8-b3f81436702d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Maths">
+      <UniqueIdentifier>{d23d54de-8a03-4ffd-a014-cf468f428f62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utilities">
+      <UniqueIdentifier>{9cbb6dfe-7787-43b2-b9f3-9a237d984e0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Vendor">
+      <UniqueIdentifier>{c048af6b-f8f1-4578-a539-81c18491e088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DnD">
+      <UniqueIdentifier>{131fbe71-137a-4abe-baeb-513a25c44ae7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DnD\DmTools">
+      <UniqueIdentifier>{8ceb471f-811a-49c6-972b-ed7f8719e569}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="application.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vendor\imgui-1.60\imgui.cpp">
+      <Filter>Header Files\Vendor</Filter>
+    </ClCompile>
+    <ClCompile Include="vendor\imgui-1.60\imgui_demo.cpp">
+      <Filter>Header Files\Vendor</Filter>
+    </ClCompile>
+    <ClCompile Include="vendor\imgui-1.60\imgui_draw.cpp">
+      <Filter>Header Files\Vendor</Filter>
+    </ClCompile>
+    <ClCompile Include="vendor\imgui-1.60\imgui_impl_sdl_gl3.cpp">
+      <Filter>Header Files\Vendor</Filter>
+    </ClCompile>
+    <ClCompile Include="math\mat4.cpp">
+      <Filter>Header Files\Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="math\vec4.cpp">
+      <Filter>Header Files\Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="math\vec3.cpp">
+      <Filter>Header Files\Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="math\vec2.cpp">
+      <Filter>Header Files\Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="dnd\DM.cpp">
+      <Filter>Header Files\DnD\DmTools</Filter>
+    </ClCompile>
+    <ClCompile Include="dnd\player.cpp">
+      <Filter>Header Files\DnD</Filter>
+    </ClCompile>
+    <ClCompile Include="ECS\EntityComponentSystem.cpp">
+      <Filter>Header Files\EntityComponentSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="utilities\Server.cpp">
+      <Filter>Header Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="dnd\monster.cpp">
+      <Filter>Header Files\DnD</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vendor\imgui-1.60\imconfig.h">
+      <Filter>Header Files\Vendor</Filter>
+    </ClInclude>
+    <ClInclude Include="vendor\imgui-1.60\imgui.h">
+      <Filter>Header Files\Vendor</Filter>
+    </ClInclude>
+    <ClInclude Include="vendor\imgui-1.60\imgui_impl_sdl_gl3.h">
+      <Filter>Header Files\Vendor</Filter>
+    </ClInclude>
+    <ClInclude Include="vendor\imgui-1.60\imgui_internal.h">
+      <Filter>Header Files\Vendor</Filter>
+    </ClInclude>
+    <ClInclude Include="vendor\imgui-1.60\stb_rect_pack.h">
+      <Filter>Header Files\Vendor</Filter>
+    </ClInclude>
+    <ClInclude Include="vendor\imgui-1.60\stb_textedit.h">
+      <Filter>Header Files\Vendor</Filter>
+    </ClInclude>
+    <ClInclude Include="vendor\imgui-1.60\stb_truetype.h">
+      <Filter>Header Files\Vendor</Filter>
+    </ClInclude>
+    <ClInclude Include="math\mat4.h">
+      <Filter>Header Files\Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="math\maths.h">
+      <Filter>Header Files\Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="math\vec4.h">
+      <Filter>Header Files\Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="math\vec3.h">
+      <Filter>Header Files\Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="math\vec2.h">
+      <Filter>Header Files\Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="dnd\DM.h">
+      <Filter>Header Files\DnD\DmTools</Filter>
+    </ClInclude>
+    <ClInclude Include="dnd\player.h">
+      <Filter>Header Files\DnD</Filter>
+    </ClInclude>
+    <ClInclude Include="dnd\playerFuncs.h">
+      <Filter>Header Files\DnD</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\EntityComponentSystem.h">
+      <Filter>Header Files\EntityComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\SpriteComponent.h">
+      <Filter>Header Files\EntityComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\TextureManager.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\TileComponent.h">
+      <Filter>Header Files\EntityComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\TransformComponent.h">
+      <Filter>Header Files\EntityComponentSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ECS\Animation.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="math\maths_func.h">
+      <Filter>Header Files\Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="utilities\Server.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="utilities\FileUtils.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="math\MachineLearning.h">
+      <Filter>Header Files\Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="dnd\combatSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dnd\weapons.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dnd\monster.h">
+      <Filter>Header Files\DnD</Filter>
+    </ClInclude>
+    <ClInclude Include="dnd\spells.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utilities\log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dnd\turns.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="database\cities.database" />
+  </ItemGroup>
+</Project>

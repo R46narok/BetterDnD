@@ -1,0 +1,7 @@
+warding bond
+Level-2nd
+CastingTime-1Action
+Range/Area-Touch
+School-Abjuration
+Attack/Save-div
+OtherInfo-                This sell wards a willing creature you touch and creates a mystic connection between you and the target until the sell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage.

@@ -1,0 +1,8 @@
+inflict wounds
+Level-1st
+CastingTime-1Action
+Range/Area-Touch
+School-Necromancy
+Attack/Save-Melee
+Damage-3d10
+OtherInfo-                Make a melee sell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage.

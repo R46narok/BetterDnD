@@ -1,0 +1,8 @@
+thunderwave
+Level-1st
+CastingTime-1Action
+Range/Area-Self
+School-Evocation
+Attack/Save-CON
+Damage-thunderous
+OtherInfo-                A wave of thunderous force swees out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is ushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't ushed.

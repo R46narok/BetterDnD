@@ -1,0 +1,1 @@
+innatespellcasting,skils,speed,deathburst,claws,bite,talons,damage,breath weapons

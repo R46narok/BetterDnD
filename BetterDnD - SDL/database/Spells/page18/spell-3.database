@@ -1,0 +1,7 @@
+produce flame
+Level-Cantrip
+CastingTime-1Action
+Range/Area-Self
+School-Conjuration
+Attack/Save-Ranged
+OtherInfo-                A flickering flame aears in your hand. The flame remains there for the duration and harms neither you nor your equiment. The flame sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The sell ends if you dismiss it as an action or if you cast it again.

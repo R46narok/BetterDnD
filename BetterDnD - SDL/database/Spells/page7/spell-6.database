@@ -1,0 +1,7 @@
+dispel magic
+Level-3rd
+CastingTime-1Action
+Range/Area-120ft
+School-Abjuration
+Attack/Save-div
+OtherInfo-                Choose one creature, object, or magical effect within range. Any sell of 3rd level or lower on the target ends. For each sell of 4th level or higher on the target, make an ability check using your sellcasting ability. The DC equals 10 + the sell's level. On a successful check, the sell ends.

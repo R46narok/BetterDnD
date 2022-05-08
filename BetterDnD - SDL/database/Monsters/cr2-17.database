@@ -1,0 +1,17 @@
+Giant_constrictor_snake
+AC-12
+HP-60(8d12+8)
+SPEED-30
+19
+14
+12
+1
+10
+3
+vulnerabilities-none
+resistances-none
+immunities-none
+actions-bite,constrict
+lactions-none
+reactions-none
+database/Monsters/cr2-17

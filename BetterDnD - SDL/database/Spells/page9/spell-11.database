@@ -1,0 +1,8 @@
+fire bolt
+Level-Cantrip
+CastingTime-1Action
+Range/Area-120ft
+School-Evocation
+Attack/Save-Ranged
+Damage-of
+OtherInfo-                You hurl a mote of fire at a creature or object within range. Make a ranged sell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this sell ignites if it isn't being worn or carried.

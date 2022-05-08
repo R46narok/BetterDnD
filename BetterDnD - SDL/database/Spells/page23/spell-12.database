@@ -1,0 +1,8 @@
+vitriolic sphere
+Level-4th
+CastingTime-1Action
+Range/Area-150ft
+School-Evocation
+Attack/Save-DEX
+Damage-emerald
+OtherInfo-                You oint at a location within range, and a glowing, 1-foot-diameter ball of emerald acid streaks there and exlodes in a 20-foot-radius shere. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 10d4 acid damage and another 5d4 acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage and no damage at the end of its next turn.

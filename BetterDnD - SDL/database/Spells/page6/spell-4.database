@@ -1,0 +1,7 @@
+cure wounds
+Level-1st
+CastingTime-1Action
+Range/Area-Touch
+School-Evocation
+Attack/Save-div
+OtherInfo-                A creature you touch regains a number of hit oints equal to 1d8 + your sellcasting ability modifier. This sell has no effect on undead or constructs.

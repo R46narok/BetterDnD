@@ -1,0 +1,17 @@
+Warhorse_skeleton
+AC-13
+HP-22(3d10+6)
+SPEED-60
+18
+12
+15
+2
+8
+5
+vulnerabilities-buldgeoning
+resistances-none
+immunities-poison,exhausion,poisoned
+actions-hooves
+lactions-none
+reactions-none
+database/Monsters/cr1.2-27

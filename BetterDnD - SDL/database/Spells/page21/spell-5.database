@@ -1,0 +1,8 @@
+spiritual weapon
+Level-2nd
+CastingTime-1BonusAction
+Range/Area-60ft
+School-Evocation
+Attack/Save-Melee
+Damage-takes
+OtherInfo-                You create a floating, sectral weaon within range that lasts for the duration or until you cast this sell again. When you cast the sell, you can make a melee sell attack against a creature within 5 feet of the weaon. On a hit, the target takes force damage equal to 1d8 + your sellcasting ability modifier.

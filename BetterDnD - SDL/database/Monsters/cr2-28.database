@@ -1,0 +1,17 @@
+Ochre_jelly
+AC-8
+HP-45(6d10+12)
+SPEED-10
+15
+6
+14
+2
+6
+1
+vulnerabilities-none
+resistances-acid
+immunities-lightning,slashing,blinded,charmed,deafend,exhaustion,frightened,prone
+feats-amorphous,spider_climb
+actions-pseudopod
+reactions-split
+database/Monsters/cr2-28

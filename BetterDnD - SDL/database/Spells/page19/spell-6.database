@@ -1,0 +1,8 @@
+sacred flame
+Level-Cantrip
+CastingTime-1Action
+Range/Area-60ft
+School-Evocation
+Attack/Save-DEX
+Damage-1d8
+OtherInfo-                Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.

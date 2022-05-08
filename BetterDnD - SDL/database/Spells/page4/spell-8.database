@@ -1,0 +1,7 @@
+command
+Level-1st
+CastingTime-1Action
+Range/Area-60ft
+School-Enchantment
+Attack/Save-WIS
+OtherInfo-                You seak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The sell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it.

@@ -1,0 +1,8 @@
+blight
+Level-4th
+CastingTime-1Action
+Range/Area-30ft
+School-Necromancy
+Attack/Save-CON
+Damage-8d8
+OtherInfo-                Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This sell has no effect on undead or constructs.

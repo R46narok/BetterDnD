@@ -1,0 +1,8 @@
+heat metal
+Level-2nd
+CastingTime-1Action
+Range/Area-60ft
+School-Transmutation
+Attack/Save-div
+Damage-2d8
+OtherInfo-                Choose a manufactured metal object, such as a metal weaon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in hysical contact with the object takes 2d8 fire damage when you cast the sell. Until the sell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.

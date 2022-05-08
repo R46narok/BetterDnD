@@ -1,0 +1,8 @@
+ice knife
+Level-1st
+CastingTime-1Action
+Range/Area-60ft
+School-Conjuration
+Attack/Save-DEX
+Damage-2d6
+OtherInfo-                You create a shard of ice and fling it at one creature within range. Make a ranged sell attack against the target. On a hit, the target takes 1d10 iercing damage. Hit or miss, the shard then exlodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 cold damage.

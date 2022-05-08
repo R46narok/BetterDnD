@@ -1,0 +1,17 @@
+Minotaur_skeleton
+AC-12
+HP-67(9d10+18)
+SPEED-40
+18
+11
+15
+6
+8
+5
+vulnerabilities-buldgeoning
+immunities-poison,exhaustion,poisoned
+feats-charge
+actions-greataxe,gore
+lactions-none
+reactions-none
+database/Monsters/cr2-26

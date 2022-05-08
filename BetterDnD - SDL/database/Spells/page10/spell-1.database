@@ -1,0 +1,8 @@
+flaming sphere
+Level-2nd
+CastingTime-1Action
+Range/Area-60ft
+School-Conjuration
+Attack/Save-DEX
+Damage-of
+OtherInfo-                A 5-foot-diameter shere of fire aears in an unoccuied sace of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the shere must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.

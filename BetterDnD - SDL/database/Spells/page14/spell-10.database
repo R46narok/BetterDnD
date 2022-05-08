@@ -1,0 +1,8 @@
+mage armor
+Level-1st
+CastingTime-1Action
+Range/Area-Touch
+School-Abjuration
+Attack/Save-div
+Damage-magical
+OtherInfo-                You touch a willing creature who isn't wearing armor, and a rotective magical force surrounds it until the sell ends. The target's base AC becomes 13 + its Dexterity modifier. The sell ends if the target dons armor or if you dismiss the sell as an action.    

@@ -1,0 +1,8 @@
+chill touch
+Level-Cantrip
+CastingTime-1Action
+Range/Area-120ft
+School-Necromancy
+Attack/Save-Ranged
+Damage-1d8
+OtherInfo-                You create a ghostly, skeletal hand in the sace of a creature within range. Make a ranged sell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit oints until the start of your next turn. Until then, the hand clings to the target.

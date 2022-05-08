@@ -1,0 +1,8 @@
+frostbite
+Level-Cantrip
+CastingTime-1Action
+Range/Area-60ft
+School-Evocation
+Attack/Save-CON
+Damage-1d6
+OtherInfo-                You cause numbing frost to form on one creature that you can see within range. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weaon attack roll it makes before the end of its next turn.

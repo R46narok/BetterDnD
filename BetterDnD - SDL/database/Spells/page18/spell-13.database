@@ -1,0 +1,8 @@
+ray of frost
+Level-Cantrip
+CastingTime-1Action
+Range/Area-60ft
+School-Evocation
+Attack/Save-Ranged
+Damage-1d8
+OtherInfo-                A frigid beam of blue-white light streaks toward a creature within range. Make a ranged sell attack against the target. On a hit, it takes 1d8 cold damage, and its seed is reduced by 10 feet until the start of your next turn.

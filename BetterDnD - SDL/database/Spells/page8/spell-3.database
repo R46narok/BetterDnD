@@ -1,0 +1,8 @@
+eldritch blast
+Level-Cantrip
+CastingTime-1Action
+Range/Area-120ft
+School-Evocation
+Attack/Save-Ranged
+Damage-1d10
+OtherInfo-                A beam of crackling energy streaks toward a creature within range. Make a ranged sell attack against the target. On a hit, the target takes 1d10 force damage.

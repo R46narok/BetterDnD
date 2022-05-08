@@ -1,0 +1,7 @@
+elemental bane
+Level-4th
+CastingTime-1Action
+Range/Area-90ft
+School-Transmutation
+Attack/Save-CON
+OtherInfo-                Choose one creature you can see within range, and choose one of the following damage tyes: acid, cold, fire, lightning, or thunder. The target must succeed on a Constitution saving throw or be affected by the sell for its duration. The first time each turn the affected target takes damage of the chosen tye, the target takes an extra 2d6 damage of that tye. Moreover, the target loses any resistance to that damage tye until the sell ends.
